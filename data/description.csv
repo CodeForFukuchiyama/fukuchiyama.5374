@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-容器包装プラスチック,,,img/shigen02.svg,#13c4e1
-空き缶,,,img/moyasu02.svg,#7fc6e4
-空きびん,,,img/bin02.svg,#2dc7aa
-ペットボトル,,,img/bin02.svg,#77ae1f
-紙パック,,,img/moyasu02.svg,#7fc6e4
+燃やすごみ,,,,#ea3b13
+燃やさないごみ,,,,#733b96
+容器包装プラスチック,,,,#13c4e1
+空き缶,,,,#7fc6e4
+空きびん,,,,#2dc7aa
+ペットボトル,,,,#77ae1f
+紙パック,,,,#7fc6e4
