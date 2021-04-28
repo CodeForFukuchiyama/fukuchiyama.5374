@@ -1,6 +1,6 @@
 ## 使い方
 
-[5374 for YOUR_CITY](http://YOUR_CITY.domain/ )について説明します。
+[5374 for 福知山市](http://5374.fukuchiyama/ )について説明します。
 
 * **色でゴミのジャンルを表示**: 一番近いゴミの日とジャンルを上から順に表示しています。
 
@@ -10,7 +10,7 @@
 
 
 ## 提供されるゴミ情報について
-YOUR_CITYが公開しているオープンデータをもとにしています。
+福知山市が公開しているオープンデータをもとにしています。
 
 
 ## 開発チームとライセンスについて
@@ -24,4 +24,4 @@ YOUR_CITYが公開しているオープンデータをもとにしています�
 
 ## Contributers in YOUR_CITY
 
-[YOUR_NAME](http://github.com/YOUR_NAME)
+[CodeForFukuchiyama](http://github.com/CodeForFukuchiyama)
