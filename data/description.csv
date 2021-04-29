@@ -1,9 +1,9 @@
 label,sublabel,description,styles,bgcolor
-燃やすごみ,,,img/FM-moyasu.svg,#ea3b13
-燃やさないごみ,,,img/FM-moyasanai.svg,#685ecf
-容器包装プラスチック,,,img/FM-plu.svg,#13c4e1
-空き缶,,,img/FM-can.svg,#27a047
-空きびん 蛍光管,,,img/FM-bin.svg,#2dc7aa
-ペットボトル,,,img/FM-pet.svg,#bbe400
-紙パック,,,img/FM-kamip.svg,#7fc6e4
-受け入れできないごみ,,,img/FM-dekinai.svg,#733b96
+燃やすごみ,,,img/FU-moyasu.svg,#ea3b13
+燃やさないごみ,,,img/FU-moyasanai.svg,#685ecf
+容器包装プラスチック,,,img/FU-plu.svg,#13c4e1
+空き缶,,,img/FU-can.svg,#27a047
+空きびん 蛍光管,,,img/FU-bin.svg,#2dc7aa
+ペットボトル,,,img/FU-pet.svg,#bbe400
+紙パック,,,img/FU-kamip.svg,#7fc6e4
+受け入れできないごみ,,,img/FU-dekinai.svg,#733b96
