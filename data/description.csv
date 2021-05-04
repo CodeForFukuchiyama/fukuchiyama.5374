@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
 燃やすごみ,,,img/FU-moyasu.svg,#ea3b13
 燃やさないごみ,,,img/FU-moyasanai.svg,#685ecf
-容器包装プラスチック,,,img/FU-plu.svg,#13c4e1
-空き缶,,,img/FU-can.svg,#27a047
+容器包装プラスチック,,,img/FU-plu.svg,#27a047
+空き缶,,,img/FU-can.svg,#81d12e
 空きびん 蛍光管,,,img/FU-bin.svg,#2dc7aa
 ペットボトル,,,img/FU-pet.svg,#bbe400
 紙パック,,,img/FU-kamip.svg,#7fc6e4
