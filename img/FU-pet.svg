@@ -1,1 +1,100 @@
-<svg width="306" height="86" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden"><defs><clipPath id="clip0"><rect x="990" y="86" width="306" height="86"/></clipPath></defs><g clip-path="url(#clip0)" transform="translate(-990 -86)"><text fill="#FFFFFF" font-family="Yu Gothic,Yu Gothic_MSFontService,sans-serif" font-weight="400" font-size="50" transform="matrix(1 0 0 1 990 146)">ペットボトル</text></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="FU-pet.svg"
+   id="svg19"
+   version="1.1"
+   overflow="hidden"
+   height="23.927858"
+   width="157.11177">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg19"
+     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:cy="5.417439"
+     inkscape:cx="150.65228"
+     inkscape:zoom="2.5196078"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview21"
+     inkscape:window-height="847"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs13">
+    <clipPath
+       id="clip0">
+      <rect
+         id="rect10"
+         height="86"
+         width="306"
+         y="86"
+         x="990" />
+    </clipPath>
+  </defs>
+  <g
+     id="g17"
+     transform="translate(-992.34772,-123.58256)"
+     clip-path="url(#clip0)">
+    <g
+       style="font-weight:400;font-size:50px;font-family:'Yu Gothic', 'Yu Gothic_MSFontService', sans-serif;fill:#ffffff"
+       id="text15"
+       transform="translate(990,146)"
+       aria-label="ペットボトル">
+      <path
+         id="path27"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Yuzu Pop A [M] Bold';-inkscape-font-specification:'Yuzu Pop A [M] Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+         d="m 19.687525,-12.8646 q -1.458335,-0.05208 -2.369795,-1.223959 -1.354168,-1.953128 0.390626,-3.593755 0.3125,-0.234375 0.625,-0.02604 2.29167,-0.286458 3.619797,1.588544 0.807292,1.718752 -0.807293,2.786462 -0.651042,0.46875 -1.458335,0.46875 z m -1.588544,-3.750004 q -0.677084,0.963543 0.05208,1.901044 1.015626,1.302085 2.421878,0.520834 0.885417,-0.494793 0.494792,-1.406252 -0.989585,-1.38021 -2.630212,-1.041668 -0.15625,0.07813 -0.338542,0.02604 z m 3.880213,14.4010595 q -0.130208,0 -0.260417,-0.026042 -3.697921,-1.2760432 -6.484383,-3.98438 -2.76042,-2.7083368 -5.234381,-5.6250068 -0.3645842,-0.416667 -0.729168,-0.859376 -0.4947922,0.755209 -0.9635428,1.53646 -1.9791692,3.1250038 -4.1145886,6.145841 -0.6510425,0.7031259 -1.4322934,0.1822919 -0.7031259,-0.6250008 -0.2083336,-1.4322935 2.0572942,-2.9687537 4.0104217,-6.0156324 0.8333344,-1.354169 1.7187522,-2.682295 0.2864587,-0.416667 0.781251,-0.468751 0.4947922,-0.02604 0.859376,0.338542 0.8072925,0.963543 1.6406275,1.901044 2.265627,2.682295 4.791672,5.2083402 2.526045,2.5000032 5.885424,3.7500048 0.885418,0.3125004 0.75521,1.2500015 -0.234376,0.7291676 -1.015627,0.781251 z" />
+      <path
+         id="path29"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Yuzu Pop A [M] Bold';-inkscape-font-specification:'Yuzu Pop A [M] Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+         d="m 40.546926,-6.328133 q -0.833334,-0.052083 -1.015626,-0.8854178 -0.260417,-1.2239599 -1.145835,-2.1093776 -0.598959,-0.7552096 0.07813,-1.4583356 0.75521,-0.572917 1.458335,0.07813 1.302085,1.3541689 1.640628,3.1770878 0.05208,0.9375012 -0.859377,1.1718765 -0.07813,0.026042 -0.15625,0.026042 z m -3.723963,0.4427089 q -0.833334,-0.052083 -1.015626,-0.8593761 -0.260417,-1.2239599 -1.145835,-2.1093777 -0.572917,-0.7552092 0.07813,-1.4583351 0.75521,-0.572917 1.458335,0.07813 1.302085,1.3541684 1.640627,3.1770874 0.05208,0.9375012 -0.859376,1.1718765 z m 0.468751,7.0573006 q -0.885418,-0.078125 -1.041668,-0.9635429 0.02604,-0.93750119 0.963543,-1.09375139 2.890628,-0.10416679 4.869798,-2.16146111 1.953127,-2.5781282 1.614585,-5.807299 0.02604,-0.9375011 0.937501,-1.0937513 0.963543,-0.026042 1.119793,0.9375011 0.416667,4.0885469 -2.109378,7.3177176 -2.552086,2.7083368 -6.302091,2.864587 z" />
+      <path
+         id="path31"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Yuzu Pop A [M] Bold';-inkscape-font-specification:'Yuzu Pop A [M] Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+         d="M 63.046955,1.5104186 H 62.942788 Q 62.005287,1.3281267 62.031328,0.36458379 62.838621,-9.6354288 61.90112,-19.635441 q -0.02604,-0.963543 0.911459,-1.145835 0.937502,0 1.145835,0.911459 0.390626,4.192714 0.468751,8.411469 2.838545,0.182292 5.468757,1.5364605 2.91667,1.5364602 4.479172,4.4270889 0.208334,0.9375012 -0.651043,1.3281267 -0.15625,0.052083 -0.338542,0.052083 -0.703125,-0.052083 -0.963542,-0.7031259 -1.302085,-2.2135445 -3.619797,-3.385421 -2.109377,-1.0156262 -4.348964,-1.1979181 0.02604,5.0000063 -0.364583,10.00001259 -0.182292,0.83333441 -1.041668,0.91145951 z" />
+      <path
+         id="path33"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Yuzu Pop A [M] Bold';-inkscape-font-specification:'Yuzu Pop A [M] Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+         d="m 102.23971,-18.411482 q -0.41667,0 -0.625,-0.338542 -0.23438,-0.338542 -0.49479,-0.651042 -0.44271,-0.572918 -0.83334,-1.197918 -0.28646,-0.651043 0.28646,-1.06771 0.65104,-0.286459 1.04167,0.286459 0.33854,0.546875 0.72917,1.041668 0.28646,0.364583 0.54687,0.729167 0.3125,0.625001 -0.20833,1.06771 -0.20833,0.130208 -0.44271,0.130208 z m 2.70834,-0.781251 q -0.46875,-0.02604 -0.67709,-0.416667 -0.33854,-0.807292 -1.01562,-1.38021 -0.57292,-0.442709 -0.23438,-1.06771 0.44271,-0.572917 1.06771,-0.234375 1.04167,0.781251 1.5625,2.005211 0.23438,0.651043 -0.36458,1.015626 -0.15625,0.07813 -0.33854,0.07813 z m -19.375027,6.58855 q -0.937501,-0.07813 -1.015626,-0.989584 0.05208,-0.937501 0.989584,-1.06771 3.359379,-0.130208 6.666675,-0.286459 0.130209,-2.526044 0.338542,-5.078131 0.156251,-0.963543 1.119793,-0.963543 0.937502,0.15625 0.963543,1.093752 -0.208333,2.421878 -0.3125,4.843756 3.567713,-0.182292 7.135426,-0.260417 0.9375,0.07813 1.04167,1.015626 -0.0521,0.937501 -1.01563,1.06771 -3.645837,0.05208 -7.239591,0.234375 -0.208334,6.666675 0.364584,13.33335009 0.02604,0.93750121 -0.885418,1.14583481 H 93.593866 Q 92.73449,1.4322935 92.57824,0.57291739 91.979281,-6.1458411 92.161573,-12.8646 q -3.281254,0.156251 -6.536467,0.260417 z m -1.145835,11.77084861 q -0.182292,0 -0.364584,-0.0781251 -0.859376,-0.39062551 -0.598959,-1.30208501 1.588544,-4.1145885 4.973965,-6.9270921 0.781251,-0.5208339 1.432293,0.1562502 0.520834,0.8072927 -0.15625,1.4583352 -2.942712,2.4479198 -4.322922,6.0156326 -0.260417,0.65104251 -0.963543,0.67708421 z m 18.463562,0 q -0.72916,-0.0260417 -0.98958,-0.72916761 -1.69271,-3.5156294 -4.895841,-5.7812573 -0.703126,-0.6250008 -0.260417,-1.4322935 0.598959,-0.7291675 1.432293,-0.260417 3.802085,2.6822951 5.703135,6.8750087 0.20833,0.9114595 -0.67709,1.27604331 -0.15625,0.0520834 -0.3125,0.0520834 z" />
+      <path
+         id="path35"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Yuzu Pop A [M] Bold';-inkscape-font-specification:'Yuzu Pop A [M] Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+         d="m 116.38036,1.5104186 h -0.10417 q -0.9375,-0.1822919 -0.91146,-1.14583481 0.80729,-10.00001259 -0.13021,-20.00002479 -0.026,-0.963543 0.91146,-1.145835 0.9375,0 1.14583,0.911459 0.39063,4.192714 0.46876,8.411469 2.83854,0.182292 5.46875,1.5364605 2.91667,1.5364602 4.47917,4.4270889 0.20834,0.9375012 -0.65104,1.3281267 -0.15625,0.052083 -0.33854,0.052083 -0.70313,-0.052083 -0.96354,-0.7031259 -1.30209,-2.2135445 -3.6198,-3.385421 -2.10938,-1.0156262 -4.34896,-1.1979181 0.026,5.0000063 -0.36459,10.00001259 -0.18229,0.83333441 -1.04166,0.91145951 z" />
+      <path
+         id="path37"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'Yuzu Pop A [M] Bold';-inkscape-font-specification:'Yuzu Pop A [M] Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+         d="m 136.58871,0.57291739 q -0.57292,-0.0260417 -0.88542,-0.49479229 -0.41667,-0.85937609 0.36458,-1.4062518 2.21355,-1.9531274 3.12501,-4.7135476 0.91146,-2.7864619 1.43229,-5.5989657 0.52084,-2.838545 0.625,-5.755215 0.0781,-0.937501 1.01563,-1.015627 h 0.026 q 0.96354,0.130209 1.01563,1.06771 -0.13021,3.255213 -0.72917,6.4323 -0.59896,3.1510455 -1.74479,6.2239661 -1.1198,3.0729205 -3.72397,5.13021479 -0.23437,0.1302085 -0.52083,0.1302085 z m 11.77085,0.1302085 q -0.46875,0 -0.78125,-0.3385421 -0.33855,-0.39062549 -0.23438,-0.91145948 1.5625,-8.46355241 0.78125,-17.00523031 -0.13021,-0.963542 0.80729,-1.223959 0.93751,-0.07813 1.19792,0.807292 0.8073,8.2291774 -0.49479,16.4323127 6.56251,-0.6770842 7.78647,-7.1354257 0.26042,-0.8854177 1.19792,-0.8072926 0.91146,0.260417 0.83333,1.2239598 -0.59896,4.166672 -3.77605,6.5104249 -3.17708,2.34375299 -7.21355,2.44791979 z" />
+    </g>
+  </g>
+</svg>
